@@ -154,7 +154,7 @@
         <scene sceneID="pqf-6J-IjZ">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="4rU-aH-ejV" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="List" image="rhombus.fill" catalog="system" id="BRa-66-j2V"/>
+                    <tabBarItem key="tabBarItem" title="Lista" image="rhombus.fill" catalog="system" id="BRa-66-j2V"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="X3i-ar-M8H">
                         <rect key="frame" x="0.0" y="118" width="393" height="54"/>
@@ -180,7 +180,7 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="calc-card">
                                 <rect key="frame" x="20" y="190" width="353" height="490"/>
                                 <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Operacion Matematica" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="calc-card-title">
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Operación matemática" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="calc-card-title">
                                         <rect key="frame" x="16" y="20" width="321" height="24"/>
                                         <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="20"/>
                                         <nil key="textColor"/>
@@ -189,7 +189,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cbox-fn">
                                         <rect key="frame" x="16" y="60" width="321" height="60"/>
                                         <subviews>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Primer Numero" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="clbl-fn">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Primer número" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="clbl-fn">
                                                 <rect key="frame" x="12" y="6" width="297" height="15"/>
                                                 <fontDescription key="fontDescription" type="system" weight="medium" pointSize="12"/>
                                                 <color key="textColor" systemColor="secondaryLabelColor"/>
@@ -231,7 +231,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cbox-sn">
                                         <rect key="frame" x="16" y="132" width="321" height="60"/>
                                         <subviews>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Segundo Numero" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="clbl-sn">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Segundo número" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="clbl-sn">
                                                 <rect key="frame" x="12" y="6" width="297" height="15"/>
                                                 <fontDescription key="fontDescription" type="system" weight="medium" pointSize="12"/>
                                                 <color key="textColor" systemColor="secondaryLabelColor"/>
@@ -273,7 +273,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cbox-op">
                                         <rect key="frame" x="16" y="204" width="321" height="60"/>
                                         <subviews>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Operacion" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="clbl-op-title">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Operación" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="clbl-op-title">
                                                 <rect key="frame" x="12" y="6" width="297" height="15"/>
                                                 <fontDescription key="fontDescription" type="system" weight="medium" pointSize="12"/>
                                                 <color key="textColor" systemColor="secondaryLabelColor"/>
@@ -377,7 +377,7 @@
                                             <view contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="copt-mul">
                                                 <rect key="frame" x="0.0" y="80" width="321" height="40"/>
                                                 <subviews>
-                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Multiplicacion (x)" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="clbl-mul">
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Multiplicación (×)" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="clbl-mul">
                                                         <rect key="frame" x="14" y="10" width="293" height="20"/>
                                                         <fontDescription key="fontDescription" type="system" pointSize="16"/>
                                                         <nil key="textColor"/>
@@ -434,9 +434,6 @@
                                                 <integer key="value" value="25"/>
                                             </userDefinedRuntimeAttribute>
                                         </userDefinedRuntimeAttributes>
-                                        <connections>
-                                            <segue destination="res-vc" kind="show" id="z42-K1-RCW"/>
-                                        </connections>
                                     </button>
                                 </subviews>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -476,7 +473,7 @@
                             <constraint firstItem="eBx-ru-gK3" firstAttribute="trailing" secondItem="calc-card" secondAttribute="trailing" constant="20" id="cc-r"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title="Calculator" id="reS-7n-wrt"/>
+                    <navigationItem key="navigationItem" title="Calculadora" id="reS-7n-wrt"/>
                     <connections>
                         <outlet property="additionOptionLabel" destination="clbl-add" id="con-add-lbl"/>
                         <outlet property="calculateButton" destination="cbtn-calc" id="con-calc-btn"/>
@@ -497,7 +494,7 @@
         <scene sceneID="Rn2-z6-mBI">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="zwW-NK-4Bs" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Calculator" image="rhombus" catalog="system" id="Ghe-gB-Cof"/>
+                    <tabBarItem key="tabBarItem" title="Calculadora" image="rhombus" catalog="system" id="Ghe-gB-Cof"/>
                     <toolbarItems/>
                     <navigationItem key="navigationItem" id="5Yh-pj-BTZ"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="UC0-Te-i4v">
@@ -517,7 +514,7 @@
         <scene sceneID="res-nav-scene">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="res-nav-ctrl" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Results" image="equal" catalog="system" id="res-tab-item"/>
+                    <tabBarItem key="tabBarItem" title="Resultados" image="equal" catalog="system" id="res-tab-item"/>
                     <toolbarItems/>
                     <navigationItem key="navigationItem" id="res-nav-item"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="res-nav-bar">
@@ -553,7 +550,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rrow-op">
                                         <rect key="frame" x="20" y="66" width="313" height="24"/>
                                         <subviews>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Operation:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rlbl-op-k">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Operación:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rlbl-op-k">
                                                 <rect key="frame" x="0.0" y="2.3333333333333144" width="130" height="19.333333333333332"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" constant="130" id="rw-op-k"/>
@@ -582,7 +579,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rrow-fn">
                                         <rect key="frame" x="20" y="104" width="313" height="24"/>
                                         <subviews>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Primer Num" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rlbl-fn-k">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Primer número:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rlbl-fn-k">
                                                 <rect key="frame" x="0.0" y="2.3333333333333144" width="130" height="19.333333333333332"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" constant="130" id="rw-fn-k"/>
@@ -611,7 +608,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rrow-sn">
                                         <rect key="frame" x="20" y="142" width="313" height="24"/>
                                         <subviews>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Segundo Num" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rlbl-sn-k">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Segundo número:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rlbl-sn-k">
                                                 <rect key="frame" x="0.0" y="2.3333333333333144" width="130" height="19.333333333333332"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" constant="130" id="rw-sn-k"/>
@@ -693,7 +690,7 @@
                                                 <rect key="frame" x="162.66666666666663" y="0.0" width="150.33333333333337" height="44"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                                 <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="16"/>
-                                                <state key="normal" title="Nuevo Calculo">
+                                                <state key="normal" title="Nuevo cálculo">
                                                     <color key="titleColor" systemColor="systemBlueColor"/>
                                                 </state>
                                                 <userDefinedRuntimeAttributes>
@@ -757,7 +754,7 @@
                             <constraint firstItem="res-safe-area" firstAttribute="trailing" secondItem="rcard-box" secondAttribute="trailing" constant="20" id="rc-r"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title="Result" id="res-item-title"/>
+                    <navigationItem key="navigationItem" title="Resultado" id="res-item-title"/>
                     <connections>
                         <outlet property="cardView" destination="rcard-box" id="rcon-card"/>
                         <outlet property="firstValLabel" destination="rlbl-fn-v" id="rcon-fval"/>
@@ -774,7 +771,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="z42-K1-RCW"/>
         <segue reference="bei-dR-Zjk"/>
     </inferredMetricsTieBreakers>
     <resources>
